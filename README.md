@@ -22,18 +22,26 @@ I enjoy working with tools and frameworks like **Python**, **Django**, **Flask**
 
 ## 🚀 Skills
 
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=git,python,js,ts,react,nodejs,django,flask,mysql,kotlin,html,css" alt="Skills Icons" />
 </a>
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p>
-    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SteliosGee&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
-    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SteliosGee&layout=compact&theme=dark" />&nbsp;&nbsp;
-</p>
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: no-wrap;">
+  <a href="https://github.com/SteliosGee/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=SteliosGee&show_icons=true&bg_color=DEG,000,555&border_color=af2412&text_color=fff&custom_title=GitHub%20Stats" height="195" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/SteliosGee/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SteliosGee&layout=compact&langs_count=8&bg_color=DEG,000,555&border_color=af2412&text_color=fff" height="195" alt="Top Languages" />
+  </a>
+</div>
 
 ---
 
