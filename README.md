@@ -34,9 +34,9 @@ I enjoy working with tools and frameworks like **Python**, **Django**, **Flask**
 
 ## 📊 GitHub Stats
 
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: no-wrap;">
-    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SteliosGee&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
-    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SteliosGee&layout=compact&theme=dark" />&nbsp;&nbsp;
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: no-wrap;">
+    <img height=175 width=350 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SteliosGee&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
+    <img height=175 width=350 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SteliosGee&theme=dark" />&nbsp;&nbsp;
 </div>
 
 ---
