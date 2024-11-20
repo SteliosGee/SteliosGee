@@ -30,20 +30,14 @@ I enjoy working with tools and frameworks like **Python**, **Django**, **Flask**
 
 ## 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/SteliosGee/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=SteliosGee&show_icons=true&bg_color=DEG,000,555&border_color=af2412&text_color=fff&custom_title=GitHub%20Stats" height="195" alt="GitHub Stats" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/SteliosGee/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SteliosGee&layout=compact&langs_count=8&bg_color=DEG,000,555&border_color=af2412&text_color=fff" height="195" alt="Top Languages" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+  <a href="https://github.com/SteliosGee/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=SteliosGee&show_icons=true&bg_color=DEG,000,555&border_color=af2412&text_color=fff&custom_title=GitHub%20Stats" height="195" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/SteliosGee/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SteliosGee&layout=compact&langs_count=8&bg_color=DEG,000,555&border_color=af2412&text_color=fff" height="195" alt="Top Languages" />
+  </a>
+</div>
 
 ---
 
