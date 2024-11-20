@@ -30,7 +30,7 @@ I enjoy working with tools and frameworks like **Python**, **Django**, **Flask**
 
 ## 📊 GitHub Stats
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;flex-direction: row">
   <a href="https://github.com/SteliosGee/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=SteliosGee&show_icons=true&bg_color=DEG,000,555&border_color=af2412&text_color=fff&custom_title=GitHub%20Stats" height="195" alt="GitHub Stats" />
   </a>
