@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" id="user-content-toc">
 
 # Hi there, I'm [Stelios](https://github.com/SteliosGee)! 👋
 
@@ -10,15 +10,11 @@ I'm a **software engineer** passionate about:
 
 I enjoy working with tools and frameworks like **Python**, **Django**, **Flask**, **JavaScript**, **React**, and **Node.js**.
 
----
-
 ## 📚 Table of Contents
 
 [🚀 Skills](#-skills)  
 [📊 GitHub Stats](#-github-stats)  
 [📬 Contact](#-contact)
-
----
 
 ## 🚀 Skills
 
@@ -30,8 +26,6 @@ I enjoy working with tools and frameworks like **Python**, **Django**, **Flask**
 
 </div>
 
----
-
 ## 📊 GitHub Stats
 
 <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: no-wrap;">
@@ -39,14 +33,12 @@ I enjoy working with tools and frameworks like **Python**, **Django**, **Flask**
     <img height=175 width=350 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SteliosGee&theme=dark" />&nbsp;&nbsp;
 </div>
 
----
-
 ## 📬 Contact
 
 ✨ Let's connect! ✨  
 📧 **Email:** [stelios.galegalidis@gmail.com](mailto:stelios.galegalidis@gmail.com)  
 💼 **LinkedIn:** [Stelios Gee](https://www.linkedin.com/in/stelios-galegalidis-59b448220/)
 
----
+<img src="https://komarev.com/ghpvc/?username=SteliosGee&color=blueviolet" alt="Profile Views" />
 
 </div>
