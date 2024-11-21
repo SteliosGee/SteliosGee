@@ -54,7 +54,7 @@ Tabs over spaces. 📈
 
 Let's connect and build something!  
 📧 **Email:** [stelios.galegalidis@gmail.com](mailto:stelios.galegalidis@gmail.com)  
-💼 **LinkedIn:** [Stelios Gee](https://www.linkedin.com/in/stelios-galegalidis-59b448220/)
+💼 **LinkedIn:** [Stelios Galegalidis](https://www.linkedin.com/in/stelios-galegalidis-59b448220/)
 
 <img src="https://komarev.com/ghpvc/?username=SteliosGee&color=blueviolet" alt="Profile Views" />
 
