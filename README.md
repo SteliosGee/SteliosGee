@@ -14,7 +14,8 @@ I enjoy working with tools and frameworks like **Python**, **Django**, **Flask**
 
 [🚀 Skills](#-skills)  
 [📊 GitHub Stats](#-github-stats)  
-[📬 Contact](#-contact)
+[📬 Contact](#-contact)  
+[🏆 Achievements](#-achievements)
 
 ## 🚀 Skills
 
@@ -32,6 +33,11 @@ I enjoy working with tools and frameworks like **Python**, **Django**, **Flask**
     <img height=175 width=350 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SteliosGee&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
     <img height=175 width=350 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SteliosGee&theme=dark" />&nbsp;&nbsp;
 </div>
+
+## 🏆 Achievements
+
+**Full Stack Dev Cerification** at [**@Workearly**](https://www.workearly.gr)
+<img src="assets/w_fullStack.png" alt="Certification" width="400" />
 
 ## 📬 Contact
 
