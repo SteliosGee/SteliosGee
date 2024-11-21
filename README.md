@@ -37,6 +37,7 @@ I enjoy working with tools and frameworks like **Python**, **Django**, **Flask**
 ## 🏆 Achievements
 
 **Full Stack Dev Cerification** at [**@Workearly**](https://www.workearly.gr)
+<br>
 <img src="assets/w_fullStack.png" alt="Certification" width="400" />
 
 ## 📬 Contact
