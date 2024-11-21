@@ -36,13 +36,23 @@ I enjoy working with tools and frameworks like **Python**, **Django**, **Flask**
 
 ## 🏆 Achievements
 
-**Full Stack Dev Cerification** at [**@Workearly**](https://www.workearly.gr)
+**Full Stack Dev Cerification** at [**Workearly**](https://www.workearly.gr)
 <br>
 <img src="assets/w_fullStack.png" alt="Certification" width="400" />
 
+## 🎉 Fun Facts
+
+I drink more coffee than my code compiles. ☕
+<br>
+I love playing video games and watching movies. 🎮🎬
+<br>
+Currently creating unique bugs. 🐛
+<br>
+Tabs over spaces. 📈
+
 ## 📬 Contact
 
-✨ Let's connect! ✨  
+Let's connect and build something!  
 📧 **Email:** [stelios.galegalidis@gmail.com](mailto:stelios.galegalidis@gmail.com)  
 💼 **LinkedIn:** [Stelios Gee](https://www.linkedin.com/in/stelios-galegalidis-59b448220/)
 
