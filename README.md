@@ -1,8 +1,8 @@
 <div align="center" id="user-content-toc">
 
-# Hi there, I'm [Stelios](https://github.com/SteliosGee)! 👋
+<img src="assets/profile_banner.png" alt="Banner" />
 
-I'm a **software engineer** passionate about:
+I'm a **full stack developer** passionate about:
 
 🌟 Making open-source more accessible.  
 🌟 Building technology to empower people.  
