@@ -1,6 +1,6 @@
 <div align="center" id="user-content-toc">
 
-<img src="assets/profile_banner.png" alt="Banner" />
+<img src="assets/profile_banner.png" alt="Banner" border=1px/>
 
 I'm a **full stack developer** passionate about:
 
@@ -8,16 +8,31 @@ I'm a **full stack developer** passionate about:
 🌟 Building technology to empower people.  
 🌟 Fostering strong and inclusive communities.
 
-I enjoy working with tools and frameworks like **Python**, **Django**, **Flask**, **JavaScript**, **React**, and **Node.js**.
 
-## 📚 Table of Contents
+## 🥐 About Me
 
-[🚀 Skills](#-skills)  
-[📊 GitHub Stats](#-github-stats)  
-[📬 Contact](#-contact)  
-[🏆 Achievements](#-achievements)
 
-## 🚀 Skills
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>🌱 I’m currently working on <b>Interview Simulation</b></li>
+        <li>🐛 I'm Currently creating <b>unique bugs.</b></li>
+        <li>🤝 I’m looking to <b>collaborate on projects</b></li>
+        <li>🎮 I love playing <b>video games</b> and <b>watching movies.</b></li>
+        <li>🔪 <b>Tabs</b> over spaces.</li>
+      </ul>
+    </td>
+    <td>
+      <img src="assets/workkspace.png" alt="Tech Illustration" width="350"/>
+    </td>
+  </tr>
+</table>
+
+
+
+
+## 🚀 Languages and Tools
 
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
@@ -44,11 +59,11 @@ I enjoy working with tools and frameworks like **Python**, **Django**, **Flask**
 
 I drink more coffee than my code compiles. ☕
 <br>
-I love playing video games and watching movies. 🎮🎬
+
 <br>
 Currently creating unique bugs. 🐛
 <br>
-Tabs over spaces. 📈
+
 
 ## 📬 Contact
 
