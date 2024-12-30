@@ -24,6 +24,7 @@ I'm a **full stack developer** passionate about:
 <p align="left">⚡ Fun fact: I have broken humour</p>
 <p align="left">🔪 <b>Tabs</b> over spaces</p>
 <p align="left">💬 Ask me about <b>anything</b></p>
+<p align="left">~~~</p>
 
 
 
