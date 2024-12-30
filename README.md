@@ -11,16 +11,16 @@ I'm a **full stack developer** passionate about:
 
 ## 🥐 About Me
 
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: no-wrap;">
-<div style="display: flex; flex-direction: column; gap: 10px; justify-content: center;">
-<p align="left">testfseff sf sdf sdf</p>
-<p align="left">testfseff sf sdf sdf</p>
-<p align="left">testfseff sf sdf sdf</p>
-<p align="left">testfseff sf sdf sdf</p>
-</div>
+
+
+
 <img src="assets/workkspace.png" alt="Workspace" align="right" width="300" />
 
-</div>
+<p>testfseff sf sdf sdf</p>
+<p>testfseff sf sdf sdf</p>
+<p>testfseff sf sdf sdf</p>
+<p>testfseff sf sdf sdf</p>
+
 
         <li>🌱 I’m currently working on <b>Interview Simulation</b></li>
         <li>🐛 I'm Currently creating <b>unique bugs.</b></li>
