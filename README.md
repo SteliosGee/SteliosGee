@@ -11,25 +11,21 @@ I'm a **full stack developer** passionate about:
 
 ## 🥐 About Me
 
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: no-wrap;">
+<div style="display: flex; flex-direction: column; gap: 10px; justify-content: center;">
+<p align="left">testfseff sf sdf sdf</p>
+<p align="left">testfseff sf sdf sdf</p>
+<p align="left">testfseff sf sdf sdf</p>
+<p align="left">testfseff sf sdf sdf</p>
+</div>
+<img src="assets/workkspace.png" alt="Workspace" align="right" width="300" />
 
-<table style="width: 100%, border: none;, flex-wrap: no-wrap;">
-  <tr>
-    <td>
-      <ul>
+</div>
+
         <li>🌱 I’m currently working on <b>Interview Simulation</b></li>
         <li>🐛 I'm Currently creating <b>unique bugs.</b></li>
         <li>🤝 I’m looking to <b>collaborate on projects</b></li>
         <li>🎮 I love playing <b>video games</b> and <b>watching movies.</b></li>
-        <li>🔪 <b>Tabs</b> over spaces.</li>
-      </ul>
-    </td>
-    <td>
-      <img src="assets/workkspace.png" alt="Tech Illustration" width="350"/>
-    </td>
-  </tr>
-</table>
-
-
 
 
 ## 🚀 Languages and Tools
