@@ -16,7 +16,7 @@ I'm a **full stack developer** passionate about:
 
 <img src="assets/workkspace.png" alt="Workspace" align="right" width="300" />
 
-<div style="margin-top: 100px;">
+<div style="margin-top: 100px; align: left; display: flex; flex-direction: column; gap: 10px;">
 <p>testfseff sf sdf sdf</p>
 <p>testfseff sf sdf sdf</p>
 <p>testfseff sf sdf sdf</p>
