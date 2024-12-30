@@ -12,23 +12,20 @@ I'm a **full stack developer** passionate about:
 ## 🥐 About Me
 
 
-<table>
-  <tr>
-    <td>
-      <ul>
-        <li>🌱 I’m currently working on <b>Interview Simulation</b></li>
-        <li>🐛 I'm Currently creating <b>unique bugs.</b></li>
-        <li>🤝 I’m looking to <b>collaborate on projects</b></li>
-        <li>🎮 I love playing <b>video games</b> and <b>watching movies.</b></li>
-        <li>🔪 <b>Tabs</b> over spaces.</li>
-      </ul>
-    </td>
-    <td>
-      <img src="assets/workkspace.png" alt="Tech Illustration" width="350"/>
-    </td>
-  </tr>
-</table>
-
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div style="text-align: left;">
+    <ul>
+      <li>🌱 I’m currently working on <b>Interview Simulation</b></li>
+      <li>🐛 I'm Currently creating <b>unique bugs.</b></li>
+      <li>🤝 I’m looking to <b>collaborate on projects</b></li>
+      <li>🎮 I love playing <b>video games</b> and <b>watching movies.</b></li>
+      <li>🔪 <b>Tabs</b> over spaces.</li>
+    </ul>
+  </div>
+  <div>
+    <img src="assets/workkspace.png" alt="Tech Illustration" width="350" />
+  </div>
+</div>
 
 
 
