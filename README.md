@@ -10,7 +10,7 @@ I'm a **full stack developer** passionate about:
 
 ## 🥐 About Me
 
-<div style="display: flex; align-items: center; gap: 20px; margin-top: 20px; text-align: left; justify-content: center;">
+<div style="display: flex; flex-display:row, align-items: left; gap: 20px; margin-top: 20px; text-align: left; justify-content: flex-start;">
   <div>
     <ul style="list-style: none; padding: 0;">
       <li>🌱 I’m currently working on <b>Interview Simulation</b></li>
