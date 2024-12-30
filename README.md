@@ -17,12 +17,13 @@ I'm a **full stack developer** passionate about:
 <img src="assets/workkspace.png" alt="Workspace" align="right" width="300" />
 
 
-<p align="left";>🌱 I’m currently working on <b>Interview Simulation</b></p>
-<p>🐛 I'm Currently creating <b>unique bugs.</b></p>
-<p>🤝 I’m looking to <b>collaborate on projects</b></p>
-<p>🎮 I love playing <b>video games</b> and <b>watching movies.</b></p>
-<p>🔪 <b>Tabs</b> over spaces</p>
-<p>💬 Ask me about <b>anything</b></p>
+<p align="left">🌱 I’m currently working on <b>Interview Simulation</b></p>
+<p align="left">🐛 I'm Currently creating <b>unique bugs.</b></p>
+<p align="left">🤝 I’m looking to <b>collaborate on projects</b></p>
+<p align="left">🎮 I love playing <b>video games</b> and <b>watching movies.</b></p>
+<p align="left">⚡ Fun fact: I have broken humour</p>
+<p align="left">🔪 <b>Tabs</b> over spaces</p>
+<p align="left">💬 Ask me about <b>anything</b></p>
 
 
 
