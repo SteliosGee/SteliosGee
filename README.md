@@ -1,4 +1,4 @@
-  <div align="center" id="user-content-toc">
+<div align="center" id="user-content-toc">
 
   <img src="assets/profile_banner.png" alt="Banner" border="1px" />
 
@@ -10,9 +10,10 @@
 
   ## 🥐 About Me
 
-  <div style="display: flex; justify-content: space-between; gap: 20px;">
-    <div>
-      <ul style="list-style: none; padding: 0;">
+  <div style="display: flex; justify-content: space-between; align-items: center; gap: 20px; max-width: 900px; margin: 0 auto; text-align: left;">
+    <!-- Text Section -->
+    <div style="flex: 1;">
+      <ul style="list-style: none; padding: 0; margin: 0;">
         <li>🌱 I’m currently working on <b>Interview Simulation</b></li>
         <li>🐛 I'm Currently creating <b>unique bugs.</b></li>
         <li>🤝 I’m looking to <b>collaborate on projects</b></li>
@@ -20,8 +21,9 @@
         <li>🔪 <b>Tabs</b> over spaces.</li>
       </ul>
     </div>
-    <div>
-      <img src="assets/workkspace.png" alt="Tech Illustration" width="350" />
+    <!-- Image Section -->
+    <div style="flex-shrink: 0;">
+      <img src="assets/workkspace.png" alt="Tech Illustration" style="width: 350px; max-width: 100%;" />
     </div>
   </div>
 
@@ -46,7 +48,6 @@
   <br>
   <img src="assets/w_fullStack.png" alt="Certification" width="400" />
 
-
   ## 📬 Contact
 
   Let's connect and build something!  
@@ -55,4 +56,4 @@
 
   <img src="https://komarev.com/ghpvc/?username=SteliosGee&color=blueviolet" alt="Profile Views" />
 
-  </div>
+</div>
