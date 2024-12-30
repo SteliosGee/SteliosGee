@@ -16,12 +16,14 @@ I'm a **full stack developer** passionate about:
 
 <img src="assets/workkspace.png" alt="Workspace" align="right" width="300" />
 
-<div style="margin-top: 100px; align: left; display: flex; flex-direction: column; gap: 10px;">
-<p>🌱 I’m currently working on <b>Interview Simulation</p>
-<p>🐛 I'm Currently creating <b>unique bugs.</p>
-<p>🤝 I’m looking to <b>collaborate on projects</p>
-<p>🎮 I love playing <b>video games</b> and <b>watching movies.</p>
-</div>
+
+<p>🌱 I’m currently working on <b>Interview Simulation</b></p>
+<p>🐛 I'm Currently creating <b>unique bugs.</b></p>
+<p>🤝 I’m looking to <b>collaborate on projects</b></p>
+<p>🎮 I love playing <b>video games</b> and <b>watching movies.</b></p>
+<p>🔪 <b>Tabs</b> over spaces</p>
+<p>💬 Ask me about <b>anything</b></p>
+
 
 
 
