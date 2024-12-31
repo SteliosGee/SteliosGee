@@ -53,6 +53,12 @@ I'm a **full stack developer** passionate about:
 <img src="assets/w_fullStack.png" alt="Certification" width="400" />
 
 
+## 🤝 Contributions
+
+I have contributed to the following projects:
+
+- [**quicksnip**](https://github.com/dostonnabotov/quicksnip)
+
 ## 📬 Contact
 
 Let's connect and build something!  
